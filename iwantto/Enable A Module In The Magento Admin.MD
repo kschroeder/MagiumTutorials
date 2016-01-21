@@ -1,4 +1,4 @@
-# I Want To Disable A Module
+# I Want To Enable A Module In The Magento Admin
 
 Enabling or Disabling a module require the use of the `Enabler`.  It is very easy to use.  Once you have logged in to the Admin UI (using the Admin login action) run the following code.
 

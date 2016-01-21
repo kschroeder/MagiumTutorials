@@ -2,7 +2,7 @@
 
 *The mechanism for doing this will change, the architecture is not quite chosen yet*
 
-In order to add a product to the cart you (may) need to be on a page that has products on it.  The current add-to-cart functionality will navigate to a default category but this will likely change (and with it break dozens of test).
+In order to add a product to your Magento shopping cart you (may) need to be on a page that has products on it.  The current add-to-cart functionality will navigate to a default category but this will likely change (and with it break dozens of test).  (*note: this functionality has been refactored and this functionality still exists as an abstraction layer to the lower level functionality*)
 
 Adding to your shopping cart is an action and so the object to do this can be found in the Actions namespace.
 

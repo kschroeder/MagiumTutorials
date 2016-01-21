@@ -1,6 +1,6 @@
 # I Want To Browse To A Category
 
-There are two ways of browsing to a category
+There are two ways of browsing to a category in your Magento shopping cart
 
 ## Automated
 

@@ -1,6 +1,6 @@
 # I Want To Have Different Settings For Individual Developers
 
-There are two ways of determining different settings (such as the theme base URL or a different identies) for individual developers.  Any item that extends `AbstractConfigurableElement` (which themes and identities do) can have its properties defined in these two ways.
+There are two ways of determining different settings (such as the theme base URL or a different identies) for individual Magento developers.  Any item that extends `AbstractConfigurableElement` (which themes and identities do) can have its properties defined in these two ways.
 
 ## The /configuration directory
 
