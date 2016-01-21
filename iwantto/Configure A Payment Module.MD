@@ -33,7 +33,7 @@ class EnablePaymentMethodTest extends AbstractMagentoTestCase
 
 Changing payment settings is more difficult and should be considered a work in progress as more payment methods are going to be added.  In other words, not all payment methods will be supported using this method, but new payment methods will be provided as time goes on.
 
-There is a lot of underlying abstraction here. [Get some background if you are not familiar with it](Make Configuration Changes.MD).
+There is a lot of underlying abstraction here. [Get some background if you are not familiar with it](Make Configuration Changes).
 
 ## Payment Setting Implementations
 

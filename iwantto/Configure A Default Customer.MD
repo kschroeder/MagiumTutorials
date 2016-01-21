@@ -1,6 +1,6 @@
 # I Want To Configure A Default Customer
 
-*Check out [Set My Default Customer Email Or Password](Set My Default Customer Email Or Password.MD) if all you are looking to do is change the email address,  password or basic information.*
+*Check out [Set My Default Customer Email Or Password](Set My Default Customer Email Or Password) if all you are looking to do is change the email address,  password or basic information.*
 
 In this scenario we are going to look at creating a Customer class that extends the main one.
 

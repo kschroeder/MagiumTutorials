@@ -1,6 +1,6 @@
 # I Want To Set A Billing Address During Checkout For A Guest Customer
 
-Setting the billing address for a guest customer is easy because you *always* have to set a billing address.  A [registered user checkout](Set A Billing Address During Checkout For A Registered Customer.MD) is a little more difficult because there may be existing addresses in the drop down menu.
+Setting the billing address for a guest customer is easy because you *always* have to set a billing address.  A [registered user checkout](Set A Billing Address During Checkout For A Registered Customer) is a little more difficult because there may be existing addresses in the drop down menu.
 
 ```
 <?php

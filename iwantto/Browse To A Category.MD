@@ -45,4 +45,4 @@ class ProductNavigationTest extends AbstractMagentoTestCase
 
 ## Creating your own
 
-Perhaps you have a unique navigation scheme that doesn't work with the default Xpath.  If so you can use the theme's `AbstractConfigurableElement` functionality to implement a [custom Instruction Navigator](Customize How I Browse To A Category.MD).
+Perhaps you have a unique navigation scheme that doesn't work with the default Xpath.  If so you can use the theme's `AbstractConfigurableElement` functionality to implement a [custom Instruction Navigator](Customize How I Browse To A Category).

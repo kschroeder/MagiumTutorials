@@ -2,7 +2,7 @@
 
 Once an order is placed on the frontend you might want to go to it in the backend to get additional order information to extract, to test invoicing/shipping or to test cancellation, among about a billion other things.
 
-But all you really need to know is the OrderID, which you can get [after an order has been placed](Get The Order ID After Checkout.MD).
+But all you really need to know is the OrderID, which you can get [after an order has been placed](Get The Order ID After Checkout).
 
 ```
 <?php

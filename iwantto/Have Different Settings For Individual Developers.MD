@@ -34,4 +34,4 @@ the following environment variable would need to be set.
 
 See [Tests\Magium\Elements\AbstractConfigurableElementTest::testPropertyPassedViaEnvironmentVariable()](https://github.com/magium/Magium/blob/master/tests/Elements/AbstractConfigurableElementTest.php) for more information.
 
-This becomes quite important if you decide to use some kind of [Continuous Integration](Configure A Continuous Integration Environment like Jenkins.MD).
+This becomes quite important if you decide to use some kind of [Continuous Integration](Configure A Continuous Integration Environment like Jenkins).
